@@ -86,7 +86,7 @@ This project is licensed under the MIT License. 📄 See the [LICENSE](LICENSE) 
 
 ## 📬 Contact
 
-For inquiries or feedback, please reach out to [codewithaman78@gmail.com](mailto:codewithaman78@gmail.com). 📧
+For inquiries or feedback, please reach out to [miteshverma989@gmail.com](mailto:mitehverma989@gmail.com). 📧
 
 ---
 
